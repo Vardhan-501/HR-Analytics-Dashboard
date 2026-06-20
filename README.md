@@ -138,7 +138,7 @@ This HR Analytics Dashboard transforms raw employee data into meaningful insight
 
 📧 Email: [priyavardhanakula114433@gmail.com](mailto:priyavardhanakula114433@gmail.com)
 
-🔗 LinkedIn: [www.linkedin.com/in/priyavardhan-akula-828193354](http://www.linkedin.com/in/priyavardhanakula)
+🔗 LinkedIn: [www.linkedin.com/in/priyavardhanakula](http://www.linkedin.com/in/priyavardhanakula)
 
 💻 GitHub: https://github.com/Vardhan-501
 
