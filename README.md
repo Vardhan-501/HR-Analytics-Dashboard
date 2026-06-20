@@ -56,7 +56,8 @@ The dataset contains employee-related information, including:
 
 ---
 
-## 📊 Dashboard Features
+## 📊 Dashboard 
+![image alt]()
 
 ### 📍 Employee Overview
 
