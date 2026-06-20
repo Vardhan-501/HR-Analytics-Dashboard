@@ -57,7 +57,7 @@ The dataset contains employee-related information, including:
 ---
 
 ## 📊 Dashboard 
-![image alt]()
+![image alt](https://github.com/Vardhan-501/HR-Analytics-Dashboard/blob/main/dashboard_overview.png?raw=true)
 
 ### 📍 Employee Overview
 
